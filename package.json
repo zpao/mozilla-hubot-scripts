@@ -1,0 +1,17 @@
+{
+  "name": "mozilla-hubot-scripts",
+  "version": "0.0.1",
+
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/zpao/mozilla-hubot-scripts.git"
+  },
+
+  "dependencies": {
+    "bz": ">= 0.2.2"
+  },
+
+  "directories": {
+    "lib": "./src"
+  }
+}
